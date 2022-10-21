@@ -1,0 +1,30 @@
+{
+  "name": "seo-web-crawler",
+  "version": "1.0.0",
+  "description": "to improve rank in google search",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suneel-papasani/seo-web-crawler"
+  },
+  "keywords": [
+    "seo-web-crawler"
+  ],
+  "author": "suneel papasani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suneel-papasani/seo-web-crawler/issues"
+  },
+  "homepage": "https://github.com/suneel-papasani/seo-web-crawler#readme",
+  "dependencies": {
+    "jsdom": "^20.0.1",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
